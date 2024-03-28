@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    max-width: 1440px;
+  }
+  
+  .component {
+    margin-bottom: 20px;
+    padding: 25%;
+  }
